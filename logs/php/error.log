@@ -1,0 +1,317 @@
+[28-May-2019 16:49:38 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/SynopsisValidator.php on line 92
+[28-May-2019 16:55:10 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:55:10 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:56:10 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:56:10 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:10 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:10 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:40 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:40 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:47 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:47 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:51 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:51 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:51 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:57:51 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:28 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:28 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:29 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:29 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:43 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:43 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:43 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:43 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:51 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:51 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:51 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:51 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:55 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:55 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:56 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:56 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:56 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:58:56 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:02 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:02 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:02 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:02 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:26 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:26 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:27 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:27 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:36 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:36 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:36 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:36 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:37 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:37 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:37 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:37 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:41 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:41 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:41 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:41 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:52 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:52 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:53 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:53 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:57 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:57 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:57 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 16:59:57 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:07 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:07 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:07 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:07 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:09 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:09 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:17 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:17 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:18 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:18 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:20 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:20 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:25 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:00:25 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:01:43 UTC] PHP Warning:  Use of undefined constant wp_enqueue_scripts - assumed 'wp_enqueue_scripts' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:01:43 UTC] PHP Warning:  Use of undefined constant immocomm_files - assumed 'immocomm_files' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/functions.php on line 9
+[28-May-2019 17:07:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function format() in /app/public/wp-content/themes/immocommTheme/front-page.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/front-page.php on line 3
+[28-May-2019 17:10:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /app/public/wp-content/themes/immocommTheme/front-page.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/front-page.php on line 3
+[28-May-2019 17:10:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /app/public/wp-content/themes/immocommTheme/front-page.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/front-page.php on line 3
+[29-May-2019 00:11:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/immocommTheme/header.php on line 36
+[29-May-2019 01:10:36 UTC] PHP Warning:  require_once(wp_bootstrap_navwalker.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:10:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:12:52 UTC] PHP Warning:  require_once(wp_bootstrap_navwalker.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:12:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:12:53 UTC] PHP Warning:  require_once(wp_bootstrap_navwalker.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:12:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:13:01 UTC] PHP Warning:  require_once(wp_bootstrap_navwalker.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:13:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:14:16 UTC] PHP Warning:  require_once(wp_bootstrap_navwalker.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:14:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/immocommTheme/functions.php on line 23
+[29-May-2019 01:16:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/immocommTheme/header.php on line 47
+[29-May-2019 01:16:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/immocommTheme/header.php on line 47
+[29-May-2019 01:17:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/immocommTheme/class-wp-bootstrap-navwalker.php on line 23
+[29-May-2019 14:32:12 UTC] PHP Fatal error:  Uncaught Error: Class 'wp_bootstrap_navwalker' not found in /app/public/wp-content/themes/immocommTheme/header.php:50
+Stack trace:
+#0 /app/public/wp-includes/template.php(722): require_once()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/immocommTheme/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/header.php on line 50
+[29-May-2019 14:54:41 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting end of file in /app/public/wp-content/themes/immocommTheme/header.php on line 19
+[29-May-2019 21:49:58 UTC] PHP Warning:  Use of undefined constant get_template_directory_uri - assumed 'get_template_directory_uri' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/front-page.php on line 4
+[29-May-2019 21:50:24 UTC] PHP Warning:  Use of undefined constant get_template_directory_uri - assumed 'get_template_directory_uri' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/front-page.php on line 4
+[29-May-2019 21:50:25 UTC] PHP Warning:  Use of undefined constant get_template_directory_uri - assumed 'get_template_directory_uri' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/front-page.php on line 4
+[29-May-2019 21:50:51 UTC] PHP Warning:  Use of undefined constant get_template_directory_uri - assumed 'get_template_directory_uri' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/front-page.php on line 4
+[29-May-2019 21:51:34 UTC] PHP Warning:  Use of undefined constant get_template_directory_uri - assumed 'get_template_directory_uri' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/front-page.php on line 4
+[29-May-2019 21:51:35 UTC] PHP Warning:  Use of undefined constant get_template_directory_uri - assumed 'get_template_directory_uri' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/front-page.php on line 4
+[29-May-2019 21:51:36 UTC] PHP Warning:  Use of undefined constant get_template_directory_uri - assumed 'get_template_directory_uri' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/front-page.php on line 4
+[29-May-2019 21:51:38 UTC] PHP Warning:  Use of undefined constant get_template_directory_uri - assumed 'get_template_directory_uri' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/front-page.php on line 4
+[01-Jun-2019 23:27:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/immocommTheme/front-page.php on line 72
+[03-Jun-2019 16:08:46 UTC] PHP Parse error:  syntax error, unexpected ''menu_class'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/immocommTheme/footer.php on line 31
+[04-Jun-2019 16:31:38 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:31:39 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:33:13 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:33:43 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:33:53 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:34:13 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:36:10 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:36:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:36:11 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:36:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:36:37 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:36:38 UTC] PHP Warning:  Use of undefined constant important - assumed 'important' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/immocommTheme/page.php on line 8
+[04-Jun-2019 16:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:40:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:41:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:44:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:50:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:51:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 16:55:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in /app/public/wp-content/themes/immocommTheme/index.php:1
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 1
+[04-Jun-2019 17:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/immocommTheme/index.php:4
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/index.php on line 4
+[05-Jun-2019 15:44:20 UTC] PHP Parse error:  syntax error, unexpected 'wp_get_attachment_image' (T_STRING) in /app/public/wp-content/themes/immocommTheme/commission-advance.php on line 45
+[05-Jun-2019 15:45:14 UTC] PHP Parse error:  syntax error, unexpected 'wp_get_attachment_image' (T_STRING) in /app/public/wp-content/themes/immocommTheme/commission-advance.php on line 45
+[05-Jun-2019 15:45:15 UTC] PHP Parse error:  syntax error, unexpected 'wp_get_attachment_image' (T_STRING) in /app/public/wp-content/themes/immocommTheme/commission-advance.php on line 45
+[05-Jun-2019 15:48:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/immocommTheme/commission-advance.php on line 39
+[05-Jun-2019 22:31:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/immocommTheme/functions.php on line 12
+[05-Jun-2019 22:32:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/immocommTheme/functions.php on line 12
+[05-Jun-2019 22:32:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/immocommTheme/functions.php on line 12
+[05-Jun-2019 22:32:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/immocommTheme/functions.php on line 12
+[06-Jun-2019 15:40:58 UTC] PHP Parse error:  syntax error, unexpected '>' in /app/public/wp-content/themes/immocommTheme/front-page.php on line 8
+[06-Jun-2019 15:53:31 UTC] PHP Warning:  Illegal string offset 'url' in /app/public/wp-content/themes/immocommTheme/front-page.php on line 24
+[06-Jun-2019 16:29:39 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /app/public/wp-content/themes/immocommTheme/contact-us.php on line 50
+[06-Jun-2019 16:34:41 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /app/public/wp-content/themes/immocommTheme/contact-us.php on line 50
+[06-Jun-2019 17:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/immocommTheme/contact-us.php:22
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/contact-us.php on line 22
+[06-Jun-2019 17:58:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/immocommTheme/contact-us.php on line 46
+[07-Jun-2019 01:23:02 UTC] PHP Parse error:  syntax error, unexpected 'the_title' (T_STRING), expecting '(' in /app/public/wp-content/themes/immocommTheme/contact-us.php on line 15
+[07-Jun-2019 01:23:04 UTC] PHP Parse error:  syntax error, unexpected 'the_title' (T_STRING), expecting '(' in /app/public/wp-content/themes/immocommTheme/contact-us.php on line 15
+[07-Jun-2019 13:42:17 UTC] PHP Parse error:  syntax error, unexpected 'get_content' (T_STRING), expecting '(' in /app/public/wp-content/themes/immocommTheme/page.php on line 21
+[07-Jun-2019 13:42:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_title() in /app/public/wp-content/themes/immocommTheme/page.php:14
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/page.php on line 14
+[07-Jun-2019 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_title() in /app/public/wp-content/themes/immocommTheme/page.php:14
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/page.php on line 14
+[07-Jun-2019 13:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_title() in /app/public/wp-content/themes/immocommTheme/page.php:14
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/page.php on line 14
+[07-Jun-2019 13:45:12 UTC] PHP Parse error:  syntax error, unexpected 'get_the_content' (T_STRING), expecting '(' in /app/public/wp-content/themes/immocommTheme/page.php on line 21
+[07-Jun-2019 13:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_title() in /app/public/wp-content/themes/immocommTheme/page.php:14
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/page.php on line 14
+[07-Jun-2019 15:52:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/immocommTheme/index.php on line 43
+[07-Jun-2019 15:56:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/immocommTheme/index.php on line 44
+[07-Jun-2019 15:56:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/immocommTheme/index.php on line 44
+[07-Jun-2019 16:00:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/immocommTheme/how-it-works.php on line 26
+[07-Jun-2019 16:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function epmty() in /app/public/wp-content/themes/immocommTheme/how-it-works.php:20
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/how-it-works.php on line 20
+[07-Jun-2019 18:12:26 UTC] PHP Parse error:  syntax error, unexpected 'get_template_directory_uri' (T_STRING) in /app/public/wp-content/themes/immocommTheme/header.php on line 50
+[08-Jun-2019 21:54:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /app/public/wp-content/themes/immocommTheme/header.php:76
+Stack trace:
+#0 /app/public/wp-includes/template.php(722): require_once()
+#1 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/immocommTheme/costs.php(4): get_header()
+#4 /app/public/wp-includes/template-loader.php(78): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/immocommTheme/header.php on line 76
+[08-Jun-2019 22:03:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/immocommTheme/functions.php on line 21
+[08-Jun-2019 22:03:44 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /app/public/wp-content/themes/immocommTheme/functions.php on line 21
+[08-Jun-2019 22:03:45 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /app/public/wp-content/themes/immocommTheme/functions.php on line 21
+[10-Jun-2019 21:07:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/immocommTheme/footer.php on line 84
+[14-Jun-2019 15:56:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/immocommTheme/footer.php on line 17
+[14-Jun-2019 15:56:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/immocommTheme/footer.php on line 17
+[14-Jun-2019 15:56:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/immocommTheme/footer.php on line 17
+[14-Jun-2019 15:56:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/immocommTheme/footer.php on line 17
+[16-Jun-2019 02:17:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /app/public/wp-content/themes/immocommTheme/index.php on line 42
+[16-Jun-2019 02:24:35 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/immocommTheme/index.php on line 14
+[16-Jun-2019 02:27:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /app/public/wp-content/themes/immocommTheme/index.php on line 46
+[22-Jun-2019 00:58:02 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-includes/update.php on line 160
+[22-Jun-2019 00:58:02 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-includes/update.php on line 384
+[22-Jun-2019 00:58:02 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-includes/update.php on line 569

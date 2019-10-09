@@ -1,0 +1,9 @@
+Jun 21 2019 14:18:11
+{"Number":2,"Message":"rmdir(\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/ugh28hpglyvp): Directory not empty","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php","Line":64}
+
+Jun 21 2019 14:18:13
+{"Number":2,"Message":"filesize(): stat failed for \/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/ugh28hpglyvp\/immocomm.test-20190621-141738-118.wpress","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":231}
+
+Jun 22 2019 18:36:03
+{"Number":2,"Message":"rmdir(\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/x6t6syfymxqu): Directory not empty","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php","Line":64}
+
